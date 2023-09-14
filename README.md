@@ -75,9 +75,11 @@ edit_git_config()
 
 10. Once the repo is created, copy and paste the "Clone" URL from the repo that was just created to your clipboard. It should look something like https://github.com/sds192fall2023/lab1-yourusername.git
 
-11. Create a project in RStudio from the GitHub repo that was just created by following the instructions starting at about 6 minutes of this video:
+11. Create a project in RStudio from the GitHub repo that was just created by following the instructions starting at about 6 minutes of this video: 
 
 <p><a href="https://youtu.be/sxErFMF7BJY?feature=shared&t=361">How to Connect RStudio Projects with GitHub Repositories: GitHub First from David Keyes.</a></p>
+
+**When the video asks you to "Create project as subdirectory of:", click Browse and select the SDS192 folder you created in class on Wednesday.**  
 
 12. Open the Lab1.qmd file from the Files tab in RStudio. Follow the instruction in the file. 
 
