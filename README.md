@@ -87,7 +87,7 @@ edit_git_config()
 
 <p><a href="https://youtu.be/sxErFMF7BJY?feature=shared&t=643"> Make a Commit and View More History from David Keyes.</a></p>
 
-14. Continue watching the video to see how to push your code to GitHub.
+14. Continue watching the above video to see how to push your code to GitHub.
 
 **CONGRATULATIONS! You've completed our course infrastructure set-up!** 
 
