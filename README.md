@@ -83,7 +83,7 @@ edit_git_config()
 
 12. Open the Lab1.qmd file from the Files tab in RStudio. Follow the instruction in the file. 
 
-13. When the file instruction tells you to commit your code, follow the instructions in the same video starting at 10:43 seconds: 
+13. When the file instruction tells you to commit your code, follow the instructions in the same video starting at 10 minutes 43 seconds: 
 
 <p><a href="https://youtu.be/sxErFMF7BJY?feature=shared&t=643"> Make a Commit and View More History from David Keyes.</a></p>
 
