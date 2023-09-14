@@ -77,13 +77,13 @@ edit_git_config()
 
 11. Create a project in RStudio from the GitHub repo that was just created by following the instructions starting at about 6 minutes of this video:
 
-<p><a href="https://youtu.be/sxErFMF7BJY?feature=shared&t=361">How to Connect RStudio Projects with GitHub Repositories: GitHub First from David Keyes.</p>
+<p><a href="https://youtu.be/sxErFMF7BJY?feature=shared&t=361">How to Connect RStudio Projects with GitHub Repositories: GitHub First from David Keyes.</a></p>
 
 12. Open the Lab1.qmd file from the Files tab in RStudio. Follow the instruction in the file. 
 
 13. When the file instruction tells you to commit your code, follow the instructions in the same video video starting at 10:43 seconds: 
 
-<p><a href="https://youtu.be/sxErFMF7BJY?feature=shared&t=643"> Make a Commit and View More History</a> from David Keyes.</p>
+<p><a href="https://youtu.be/sxErFMF7BJY?feature=shared&t=643"> Make a Commit and View More History from David Keyes.</a></p>
 
 14. Continue watching the video to see how to push your code to GitHub.
 
